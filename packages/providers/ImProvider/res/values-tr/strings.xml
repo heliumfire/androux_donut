@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright (C) 2009 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="ro_perm_label" msgid="8923213594676670163">"anlık iletileri oku"</string>
+    <string name="ro_perm_desc" msgid="6154703403388711809">"Uygulamalara, IM içerik sağlayıcısından gelen verileri okuma izni verir."</string>
+    <string name="wo_perm_label" msgid="4771652386754813294">"anlık iletiler yazın"</string>
+    <string name="wo_perm_desc" msgid="470416777693330370">"Uygulamaların IM içerik sağlayıcısına veri yazmasına izin verir."</string>
+    <string name="im_label" msgid="5040064040105432386">"IM"</string>
+    <string name="landing_page_title" msgid="2177721703095999384">"Sohbet - Bir hesap seçin"</string>
+    <string name="menu_add_account" msgid="4184762314855405486">"Hesap ekle"</string>
+    <string name="menu_edit_account" msgid="6585077522972888350">"Hesabı düzenle"</string>
+    <string name="menu_remove_account" msgid="8013513817623405880">"Hesabı kaldır"</string>
+    <string name="sign_in" msgid="8420453507342456753">"Oturum aç"</string>
+    <string name="menu_sign_out" msgid="2737051932405259853">"Çıkış"</string>
+    <string name="menu_settings" msgid="590956137301210916">"Ayarlar"</string>
+    <string name="menu_sign_out_all" msgid="945106187701517280">"Tüm hizmetlerden çık"</string>
+    <string name="choose_account_title" msgid="3179220583433723296">"Sohbet - Bir hesap seçin"</string>
+    <string name="conversations" msgid="6809253595345281731">"(%1$d)"</string>
+    <string name="add_account" msgid="3793076059089010851">"<xliff:g id="ACCOUNT">%1$s</xliff:g> hesabını ekle"</string>
+    <string name="menu_view_contact_list" msgid="4703362007911835460">"Kişi listesi"</string>
+    <string name="signing_in_wait" msgid="8262004726366994582">"Oturum açılıyor..."</string>
+</resources>
